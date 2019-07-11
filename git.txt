@@ -1,0 +1,13 @@
+git clone git@github.com:mushiqing/sakura.git
+
+git add 文件名
+
+git commit  -m 备注
+
+git push origin master 
+
+rm -f 文件名 （删除文件）
+
+git status  (状态查询)
+
+touch 文件名 （新建文件）
