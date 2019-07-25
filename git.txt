@@ -1,13 +1,19 @@
-git clone git@github.com:mushiqing/sakura.git
+git clone git@github.com:mushiqing/sakura.git å…‹éš†
 
-git add ÎÄ¼şÃû
+git add +æ–‡ä»¶å
 
-git commit  -m ±¸×¢
+git commit  -m å¤‡æ³¨
 
 git push origin master 
 
-rm -f ÎÄ¼şÃû £¨É¾³ıÎÄ¼ş£©
+rm -f æ–‡ä»¶å ï¼ˆåˆ é™¤æ–‡ä»¶ï¼‰
 
-git status  (×´Ì¬²éÑ¯)
+git status  (çŠ¶æ€æŸ¥è¯¢)
 
-touch ÎÄ¼şÃû £¨ĞÂ½¨ÎÄ¼ş£©
+touch æ–‡ä»¶å ï¼ˆæ–°å»ºæ–‡ä»¶ï¼‰
+
+git pull (å¦‚æœåˆ«äººåˆæ›´æ–°éœ€è¦æ‹‰ä¸€æ¬¡)
+
+git config --global core.editor "vim"
+
+
